@@ -1,3 +1,4 @@
+#!/bin/sh
 git clone --depth 1 "https://github.com/cktan/tomlc99"
 cd tomlc99
 make
